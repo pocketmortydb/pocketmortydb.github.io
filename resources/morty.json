@@ -1,0 +1,1577 @@
+{
+    {
+        "id": 1,
+        "type": "",
+        "name": "Morty",
+        "prevo": 0,
+        "evo": 0,
+        "height": "5\"2",
+        "weight": "110.2",
+        "char": "Easy Going",
+        "desc": "This is your Morty, don\"t lose him!",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "001.jpg"
+    },
+
+    {
+        "id": 2,
+        "type": "R",
+        "name": "Scruffy Morty",
+        "prevo": 0,
+        "evo": 3,
+        "height": "5'2\"",
+        "weight": "108.4",
+        "char": "Easy going, Unconventional",
+        "desc": "This Morty has never much cared for his appearance",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "002.jpg"
+    },
+
+    {
+        "id": 3,
+        "type": "R",
+        "name": "Unkempt Morty",
+        "prevo": 2,
+        "evo": 4,
+        "height": "5'2\"",
+        "weight": "109.3",
+        "char": "Stinky, Likes garlic",
+        "desc": "This Morty refuses to take a bath or brush his teeth. He also appreciates the health benefits of garlic.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "003.jpg"
+    },
+
+    {
+        "id": 4,
+        "type": "R",
+        "name": "Hobo Morty",
+        "prevo": 3,
+        "evo": 0,
+        "height": "5'2\"",
+        "weight": "111.7",
+        "char": "Erratic, Likes poodles",
+        "desc": "This Morty lurks around inner city parks waiting to touch unsupervised dogs without the owners consent.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "004.jpg"
+    },
+
+    {
+        "id": 5,
+        "type": "P",
+        "name": "Old Morty",
+        "prevo": 0,
+        "evo": 6,
+        "height": "5'2\"",
+        "weight": "110.2",
+        "char": "Old, Likes old things",
+        "desc": "This Morty remembers when this all used to be fields and he could fly his kite freely without the fear of it becoming stuck in a tree.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "005.jpg"
+    },
+
+    {
+        "id": 6,
+        "type": "P",
+        "name": "Geriatric Morty",
+        "prevo": 5,
+        "evo": 7,
+        "height": "5'2\"",
+        "weight": "102.4",
+        "char": "Regretful, Always cold",
+        "desc": "This Morty sits alone in his small room, looking through old photo albums at faces he can't quite remember. He waits for the comfort only the grave can bring.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "006.jpg"
+    },
+
+    {
+        "id": 7,
+        "type": "P",
+        "name": "Ancient Morty",
+        "prevo": 6,
+        "evo": 0,
+        "height": "5'1\",
+        "weight": "90.5",
+        "char": "Dusty, Dead to the world",
+        "desc": "This Morty chose poorly. Dried up and dead to the world, only hatred, cruel fate and years of modern food preservatives keep his wicked heart beating.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "007.jpg"
+    },
+
+    {
+        "id": 8,
+        "type": "S",
+        "name": "Rabbit Morty",
+        "prevo": 0,
+        "evo": 9,
+        "height": "5'2\"",
+        "weight": "130.2",
+        "char": "Likes carrots and lettuce",
+        "desc": "This Morty was bitten by a radioactive bunny and now turns into a rabbit every time a carrot is near. Unfortunately he is from a dimension where Humans evolved from carrots.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "008.jpg"
+    },
+
+    {
+        "id": 9,
+        "type": "S",
+        "name": "Evil Rabbit Morty",
+        "prevo": 8,
+        "evo": 0,
+        "height": "5'4\"",
+        "weight": "108.2",
+        "char": "Like evil and lettuce",
+        "desc": "This Morty is an evil Cosplayer from a dimension where Halloween is held 340 days a year. His rabbit costume used to be pink and cute but faded to a dull gray from overuse.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "009.jpg"
+    },
+
+    {
+        "id": 10,
+        "type": "P",
+        "name": "No Eye Morty",
+        "prevo": 0,
+        "evo": 11,
+        "height": "5'2\"",
+        "weight": "108.2",
+        "char": "Smooth, Likes eggs",
+        "desc": "This Morty refuses to talk about his impairment, but some say he lost his eyes when his Rick tried to swap them out for his own.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "010.jpg"
+    },
+
+    {
+        "id": 11,
+        "type": "P",
+        "name": "One Eye Morty",
+        "prevo": 10,
+        "evo": 12,
+        "height": "5'2\"",
+        "weight": "112.3",
+        "char": "Cool, Fun at Parties",
+        "desc": "This Morty has never quite felt accepted amongst other Mortys. He hopes that they will one day see things the way he does.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "011.jpg"
+    },
+
+    {
+        "id": 12,
+        "type": "P",
+        "name": "Three Eye Morty",
+        "prevo": 11,
+        "evo": 0,
+        "height": "5'2\"",
+        "weight": "115.1",
+        "char": "Good eye sight, Blinky",
+        "desc": "This Morty has seen everything but has yet to feel the warmth of a loving touch.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "012.jpg"
+    },
+
+    {
+        "id": 13,
+        "type": "P",
+        "name": "Test X1 Morty",
+        "prevo": 0,
+        "evo": 14,
+        "height": "2'3\"",
+        "weight": "30.4",
+        "char": "Small, Jelly based",
+        "desc": "This Morty was the first results in a series of experiments by a guilt-ridden Rick who spent his dying days trying to bring back his lost grandson.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "013.jpg"
+    },
+
+    {
+        "id": 14,
+        "type": "P",
+        "name": "Test X46 Morty",
+        "prevo": 13,
+        "evo": 15,
+        "height": " 3'7\"",
+        "weight": "55.7",
+        "char": "Smells like Iron",
+        "desc": "This Morty was the second successful result in a series of experiments that led to the downfall and financial ruin of his creator. This Morty can only feel pain and hunger.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "014.jpg"
+    },
+
+    {
+        "id": 15,
+        "type": "P",
+        "name": "Test X72 Morty",
+        "prevo": 14,
+        "evo": 0,
+        "height": "4'3\"",
+        "weight": "76.5",
+        "char": "Shy, Good at singing",
+        "desc": "This Morty is the result of a transdimensional pharmaceutical conglomerate's further experimentation on a patented genome acquired through a hostile takeover.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "015.jpg"
+    },
+
+    {
+        "id": 16,
+        "type": "R",
+        "name": "Self Defense Morty",
+        "prevo": 0,
+        "evo": 17,
+        "height": "5'2\"",
+        "weight": "110.2",
+        "char": "Uncomfortable, Shy",
+        "desc": "This Morty used to get beaten up every day on his way to school. He decided to take self defense classes to boost his confidence and physical strength.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "016.jpg"
+    },
+
+    {
+        "id": 17,
+        "type": "R",
+        "name": "Karate Morty",
+        "prevo": 16,
+        "evo": 18,
+        "height": "5'2\"",
+        "weight": "113.3",
+        "char": "Punchy, Dedicated",
+        "desc": "This Morty is a dedicated practitioner of karate spending 12 hours a day working on his forms, sparring, and strength training. This Morty loves karate more than life.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "017.jpg"
+    },
+
+    {
+        "id": 18,
+        "type": "R",
+        "name": "No Mercy Morty",
+        "prevo": 17,
+        "evo": 0,
+        "height": "5'2\"",
+        "weight": "119.6",
+        "char": "Shows no mercy, Strong",
+        "desc": "This Morty has been corrupted by the power he feels in his arms and legs, he will show you no mercy if you do not follow the way of the fist. There is no fear in his Dojo or his heart.",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "018.jpg"
+    },
+
+    {
+        "id": 19,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "019.jpg"
+    },
+
+    {
+        "id": 20,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "020.jpg"
+    },
+
+    {
+        "id": 21,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "021.jpg"
+    },
+
+    {
+        "id": 22,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "022.jpg"
+    },
+
+    {
+        "id": 23,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "023.jpg"
+    }, {
+        "id": 24,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "024.jpg"
+    },
+
+    {
+        "id": 25,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "025.jpg"
+    },
+
+    {
+        "id": 26,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "026.jpg"
+    },
+
+    {
+        "id": 27,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "027.jpg"
+    },
+
+    {
+        "id": 28,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "028.jpg"
+    },
+
+    {
+        "id": 29,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "029.jpg"
+    },
+
+    {
+        "id": 30,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "030.jpg"
+    },
+
+    {
+        "id": 31,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "031.jpg"
+    },
+
+    {
+        "id": 32,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "032.jpg"
+    },
+
+    {
+        "id": 33,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "033.jpg"
+    },
+
+    {
+        "id": 34,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "034.jpg"
+    },
+
+    {
+        "id": 35,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "035.jpg"
+    },
+
+    {
+        "id": 36,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "036.jpg"
+    },
+
+    {
+        "id": 37,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "037.jpg"
+    },
+
+    {
+        "id": 38,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "038.jpg"
+    },
+
+    {
+        "id": 39,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "039.jpg"
+    },
+
+    {
+        "id": 40,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "040.jpg"
+    },
+
+    {
+        "id": 41,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "041.jpg"
+    },
+
+    {
+        "id": 42,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "042.jpg"
+    },
+
+    {
+        "id": 43,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "043.jpg"
+    },
+
+    {
+        "id": 44,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "044.jpg"
+    },
+
+    {
+        "id": 45,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "045.jpg"
+    },
+
+    {
+        "id": 46,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "046.jpg"
+    },
+
+    {
+        "id": 47,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "047.jpg"
+    },
+
+    {
+        "id": 48,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "048.jpg"
+    },
+
+    {
+        "id": 49,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "049.jpg"
+    },
+
+    {
+        "id": 50,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "050.jpg"
+    },
+
+    {
+        "id": 51,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "051.jpg"
+    },
+
+    {
+        "id": 52,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "052.jpg"
+    },
+
+    {
+        "id": 53,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "053.jpg"
+    },
+
+    {
+        "id": 54,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "054.jpg"
+    },
+
+    {
+        "id": 55,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "055.jpg"
+    },
+
+    {
+        "id": 56,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "056.jpg"
+    },
+
+    {
+        "id": 57,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "057.jpg"
+    },
+
+    {
+        "id": 58,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "058.jpg"
+    },
+
+    {
+        "id": 59,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "059.jpg"
+    },
+
+    {
+        "id": 60,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "060.jpg"
+    },
+
+    {
+        "id": 61,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "061.jpg"
+    },
+
+    {
+        "id": 62,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "062.jpg"
+    },
+
+    {
+        "id": 63,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "063.jpg"
+    },
+
+    {
+        "id"
+        64: ,
+            "type": "",
+            "name": "",
+            "prevo": "",
+            "evo": "",
+            "height": "",
+            "weight": "",
+            "char": "",
+            "desc": "",
+            "stats": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0
+            },
+            "link": "064.jpg"
+    },
+
+    {
+        "id": 65,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "065.jpg"
+    },
+
+    {
+        "id": 66,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "066.jpg"
+    },
+
+    {
+        "id": 67,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "067.jpg"
+    },
+
+    {
+        "id": 68,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "068.jpg"
+    },
+
+    {
+        "id": 69,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "069.jpg"
+    },
+
+    {
+        "id": 70,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "070.jpg"
+    },
+
+    {
+        "id": 71,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "071.jpg"
+    },
+
+    {
+        "id": 72,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "072.jpg"
+    },
+
+    {
+        "id": 73,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "073.jpg"
+    },
+
+    {
+        "id": 74,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "074.jpg"
+    },
+
+    {
+        "id": 75,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "075.jpg"
+    },
+
+    {
+        "id": 76,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "076.jpg"
+    },
+
+    {
+        "id": 77,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "077.jpg"
+    },
+
+    {
+        "id": 78,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "078.jpg"
+    },
+
+    {
+        "id": 79,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "079.jpg"
+    },
+
+    {
+        "id": 80,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "080.jpg"
+    },
+
+    {
+        "id": 81,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "081.jpg"
+    },
+
+    {
+        "id": 82,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "082.jpg"
+    },
+
+    {
+        "id": 83,
+        "type": "",
+        "name": "",
+        "prevo": "",
+        "evo": "",
+        "height": "",
+        "weight": "",
+        "char": "",
+        "desc": "",
+        "stats": {
+            "hp": 0.0,
+            "atk": 0.0,
+            "def": 0.0,
+            "spd": 0.0
+        },
+        "link": "083.jpg"
+    }
+}
